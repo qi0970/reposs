@@ -1,0 +1,17 @@
+﻿  ConsoleApplication2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vadefs.h(177,1): fatal  error C1001: 内部编译器错误。
+  (编译器文件“msc1.cpp”，第 1592 行)
+   要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+  如果可以，请在此处提供重现步骤: https://developercommunity.visualstudio.com
+  请选择 Visual C++
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vadefs.h(194,1): message : 查看对正在编译的 类 模板 实例化“__vcrt_va_list_is_reference<_Ty>”的引用
+          with
+          [
+              _Ty=const _locale_t
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdio.h(486,9): message : 查看对正在编译的 类 模板 实例化“__vcrt_assert_va_start_is_not_reference<const _locale_t>”的引用
+  “C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64\CL.exe”中的内部编译器错误
+    请选择 Visual C++
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息
+MSBUILD : error MSB4166: 子节点“2”过早退出。正在关闭。可以在“C:\Users\Qi\AppData\Local\Temp\MSBuildTempQi\”中的文件中找到诊断信息，并将其命名为 MSBuild_*.failure.txt。通过将 MSBUILDDEBUGPATH 环境变量设为其他目录，可更改此位置。

@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+x64\Debug\ConsoleApplication1.obj : fatal error LNK1000: Internal error during IMAGE::Pass1

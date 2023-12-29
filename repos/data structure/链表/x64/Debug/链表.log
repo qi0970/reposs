@@ -1,0 +1,4 @@
+﻿  LinkedList.c
+C:\Users\Qi\source\repos\data structure\链表\LinkedList.c(91): warning C4715: “Delete”: 不是所有的控件路径都返回值
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\Qi\source\repos\data structure\链表\x64\Debug\链表.exe : fatal error LNK1120: 1 个无法解析的外部命令
